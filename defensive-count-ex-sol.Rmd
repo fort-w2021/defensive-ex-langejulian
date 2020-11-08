@@ -1,0 +1,7 @@
+### Solution defensive-count-ex ###
+
+a) Es werden folgende implizite Annahmen über das Objekt getroffen:
+  - Objekt ein Skalar sowie numerisch (also auch kein dataframe oder list)
+  - Objekt ein nicht-negativer Wert
+  - Objekt kein fehlender Wert
+  - Objekt nicht unendlich
